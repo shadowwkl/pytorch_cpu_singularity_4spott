@@ -1,0 +1,1 @@
+# pytorch_cpu_singularity_4spott
